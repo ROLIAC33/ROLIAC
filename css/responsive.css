@@ -1718,7 +1718,8 @@ p {
 		width: 100%;
 	}
 	.logo img {
-		width: 180px;
+		height: 70px;
+		width: 80px;
 	}
 	.header_middle .search_style {
 		background: #f0f0f0;
@@ -2140,7 +2141,8 @@ p {
 		display: none;
 	}
 	.logo img {
-		width: 180px;
+		height: 70px;
+		width: 80px;
 	}
 	.header_middle .search_style {
 		background: #f0f0f0;
@@ -2594,4 +2596,3 @@ p {
     line-height: 25px;
     color: #212222;
 }
-
